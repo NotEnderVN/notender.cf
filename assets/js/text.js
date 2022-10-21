@@ -46,6 +46,7 @@ $(function () {
       "2 9 3 2 0 1 0",
       "out of idea :idk:",
       "1 + 1 = 3",
+      "2-3 con vịt, em cho anh ch1t. 2-3 con chồn, yêu em vãi l. À ko có j",
       "haiyaaa",
       "My HeroMC alts to hack on is enderrbili(number),
       "fuiyoo!",
