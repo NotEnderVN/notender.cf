@@ -48,7 +48,7 @@ $(function () {
       "1 + 1 = 3",
       "2-3 con vịt, em cho anh ch1t. 2-3 con chồn, yêu em vãi l. À ko có j",
       "haiyaaa",
-      "My HeroMC alts to hack on is enderrbili(number),
+      "My HeroMC alts to hack on is enderrbili(number)",
       "fuiyoo!",
       "bro chill",
       "Ok google, are u g-.. nvm",
